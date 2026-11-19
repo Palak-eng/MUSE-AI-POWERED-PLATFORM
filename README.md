@@ -94,3 +94,11 @@ sha256 fallback for old accounts.
   `.streamlit/secrets.toml`, restart.
 * Blank AI output → model returned non-JSON; raw output is shown + saved.
 * Live search unavailable → song/trend tips fall back to base knowledge.
+
+## 📊 Project Presentation
+
+Want to understand the project visually?
+
+Explore our project presentation:
+
+📄 [MUSE – Void Walkers (PDF)](docs/MUSE_VOID_WALKERS.pdf)
